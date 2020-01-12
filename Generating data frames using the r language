@@ -1,0 +1,8 @@
+hu=data.frame(gender=c('male','male','Female'),height=c(152,171.5,165),weight=c(81,98,105),age=c(54,66,85))
+> 
+> print(hu)
+  gender height weight age
+1   male  152.0     81  54
+2   male  171.5     98  66
+3 Female  165.0    105  85
+> 
