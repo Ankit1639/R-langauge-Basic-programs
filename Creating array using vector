@@ -1,0 +1,19 @@
+> l=array(c('g','p'),dim=c(3,3,2))
+> print(a)
+
+> print(l)
+, , 1
+
+     [,1] [,2] [,3]
+[1,] "g"  "p"  "g" 
+[2,] "p"  "g"  "p" 
+[3,] "g"  "p"  "g" 
+
+, , 2
+
+     [,1] [,2] [,3]
+[1,] "p"  "g"  "p" 
+[2,] "g"  "p"  "g" 
+[3,] "p"  "g"  "p" 
+
+*Where dim=c(3,3,2) ==dim(row,col,repeatation)
