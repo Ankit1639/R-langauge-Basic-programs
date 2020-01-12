@@ -1,0 +1,12 @@
+> o=c("green","appple")
+> print(c)
+function (...)  .Primitive("c")
+> print(o)
+[1] "green"  "appple"
+> print(class(o))
+[1] "character"
+> o=c("green","appple",23)
+> print(o)
+[1] "green"  "appple" "23"    
+> print(class(o))
+[1] "character"
