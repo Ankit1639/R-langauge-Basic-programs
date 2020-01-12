@@ -1,0 +1,9 @@
+
+*char to raw:-
+Raw is the garbage value: 
+> a="Hello"
+> b=charToRaw(a)
+> print(b)
+[1] 48 65 6c 6c 6f
+> print(class(b))
+[1] "raw"
