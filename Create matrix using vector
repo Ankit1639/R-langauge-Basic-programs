@@ -1,0 +1,8 @@
+2 D rectangular data set.It can be created by Keyword using Matrix.
+Create a Matrix of 2*3:-
+> M=matrix(c('a','g','f','k','l','p'),nrow=2,ncol=3,byrow=TRUE)
+> PRINT(M)
+> print(M)
+     [,1] [,2] [,3]
+[1,] "a"  "g"  "f" 
+[2,] "k"  "l"  "p" 
