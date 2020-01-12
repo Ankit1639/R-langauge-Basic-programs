@@ -1,0 +1,7 @@
+y=c('green','yellow','red','green','yellow','red')
+> print(y)
+[1] "green"  "yellow" "red"    "green"  "yellow" "red"   
+> h=factor(y)
+> 
+> print(nlevels(h))
+[1] 3
